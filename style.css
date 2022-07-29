@@ -19,3 +19,10 @@
 .color{
     background-color: rgb(244, 239, 233);
 }
+
+
+@media only screen and (min-width: 992px) {
+    .custom-width{
+        width:85%
+    }
+}
